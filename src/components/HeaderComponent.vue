@@ -29,7 +29,5 @@ p {
   font-family: 'Comfortaa', cursive;
   display: inline;
 }
-#red{
-  color: 	#D2302C
-}
+
 </style>
