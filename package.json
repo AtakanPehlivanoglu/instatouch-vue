@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@syncfusion/ej2-vue-buttons": "^18.2.58",
+    "@syncfusion/ej2-vue-layouts": "^18.3.40",
     "bootstrap": "^4.5.2",
     "bootstrap-vue": "^2.17.3",
     "core-js": "^3.6.5",

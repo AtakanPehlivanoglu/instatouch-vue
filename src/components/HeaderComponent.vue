@@ -23,6 +23,9 @@ p {
   text-align: center;
   margin: 2.5%;
 }
+h1{
+  font-size: 32px;
+}
 #logo img{
   padding-right: 10px;
 }
@@ -33,7 +36,7 @@ p {
 .divider
 {
 	position: relative;
-	margin-top: 5%;
+	margin-top: 2.5%;
 
 	height: 1px;
 }

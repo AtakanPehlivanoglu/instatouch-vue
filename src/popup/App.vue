@@ -23,8 +23,10 @@ export default {
 @import "../../node_modules/@syncfusion/ej2-buttons/styles/material.css";
 @import "../../node_modules/bootstrap/dist/css/bootstrap.css";
 @import "../../node_modules/bootstrap-vue/dist/bootstrap-vue.css";
+@import '../../node_modules/@syncfusion/ej2-base/styles/material.css';
+@import '../../node_modules/@syncfusion/ej2-vue-layouts/styles/material.css';
 html {
-  width: 400px;
+  width: 350px;
 
 }
 
